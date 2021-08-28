@@ -34,7 +34,7 @@ export default {
       inputModel:"",
       key:"",
       ax:()=>{},
-      API_ENDPOINT:"http://apishorten3.herokuapp.com"
+      API_ENDPOINT:"https://apishorten3.herokuapp.com"
     }
   },
   methods:{

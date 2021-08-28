@@ -23,7 +23,7 @@ export default {
     data(){
         return { 
             text:"Redirecting..",
-            API_ENDPOINT:"http://localhost"
+            API_ENDPOINT:"https://apishorten3.herokuapp.com"
         }
     }
 }

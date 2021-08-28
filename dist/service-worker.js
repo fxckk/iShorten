@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.30d8888326c9647211ec8c05cb41fdb1.js"
+  "/precache-manifest.ff403ab31207160db50a3fae4b7cd057.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "ishortenx"});
